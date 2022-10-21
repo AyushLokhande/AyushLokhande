@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyushLokhande
+- 👋 Hi, I’m Ayush aka Zygod
 - 👀 I’m interested in you
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on nothing
