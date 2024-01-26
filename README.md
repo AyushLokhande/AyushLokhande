@@ -4,7 +4,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ayusshhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayusshhg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush lokhande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush lokhande" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ayush lokhande](https://www.linkedin.com/in/ayush-lokhande-41a81a280/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush lokhande" height="30" width="40" /></a>
 <a href="https://instagram.com/ayusshhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayusshhg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uchiha zygod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchiha zygod" height="30" width="40" /></a>
 <a href="https://discord.gg/Jy8jU7bBtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jy8jU7bBtz" height="30" width="40" /></a>
